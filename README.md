@@ -24,7 +24,7 @@ variable under test.
 
 ## Data
 
-DepMap Public release [RECORD VERSION HERE], from depmap.org
+DepMap Public release 26Q1, from depmap.org
 
 - `Model.csv` — cell line annotation
 - `OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv` — RNA-seq, log2(TPM+1)

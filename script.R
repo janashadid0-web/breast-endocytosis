@@ -10,4 +10,4 @@ breast <- filter(models, OncotreeLineage == "Breast")
 
 stopifnot(nrow(breast) == 96)
 
-write.csv(breast, "data/breast_models.csv", row.names = FALSE)
+write.csv(breast, "data/breast_models.csv", row.names = FALSE)source("scripts/01_filter_breast.R")source("scripts/01_filter_breast.R")
