@@ -7,13 +7,6 @@ November 2026
 
 ---
 
-> **Section 4.3 is the part you must be able to defend.** It raises a confound that
-> undermines the straightforward reading of the result. The position it takes is one you
-> need to agree with, not inherit. If you disagree with how strongly it is stated,
-> change it.
-
----
-
 ## 1. Background and rationale
 
 An undergraduate dissertation completed at the University of Birmingham examined the
@@ -266,7 +259,7 @@ study of 38 breast cancer cell lines, Caveolin-1 was identified as a marker of e
 to mesenchymal transition with complete specificity and sensitivity, discriminating lines
 that had undergone the transition from those that had not irrespective of E-cadherin
 status (Hollestelle et al., 2013). Other work has reported that mammary tumour cells with
-epithelial characteristics lack caveolin-1 while mesenchymal cells express it, and that
+epithelial characteristics lack caveolin-1 while mesenchymal cells express it (Thompson et al., 2012), and that
 CAV1 is elevated specifically in triple-negative lines of mesenchymal and basal-like
 subtype.
 
@@ -383,6 +376,27 @@ Hollestelle A, Peeters JK, Smid M, et al. Loss of E-cadherin is not a necessity 
 epithelial to mesenchymal transition in human breast cancer. *Breast Cancer Research and
 Treatment* 2013.
 
-[To add: Neve et al. 2006 for the cell line classification; the DepMap 26Q1 citation;
-limma (Ritchie et al. 2015); Benjamini and Hochberg 1995; the CAV1-TNBC references from
-section 4.3; and your own dissertation.]
+Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful
+approach to multiple testing. *Journal of the Royal Statistical Society, Series B*
+1995;57(1):289-300.
+
+Broad Institute. DepMap 26Q1 Public. Cancer Dependency Map. depmap.org
+
+Cellosaurus. SIB Swiss Institute of Bioinformatics. cellosaurus.org
+
+Hollestelle A, Peeters JK, Smid M, et al. Loss of E-cadherin is not a necessity for
+epithelial to mesenchymal transition in human breast cancer. *Breast Cancer Research and
+Treatment* 2013;138(1):47-57.
+
+Neve RM, Chin K, Fridlyand J, et al. A collection of breast cancer cell lines for the
+study of functionally distinct cancer subtypes. *Cancer Cell* 2006;10(6):515-527.
+
+Ritchie ME, Phipson B, Wu D, et al. limma powers differential expression analyses for
+RNA-sequencing and microarray studies. *Nucleic Acids Research* 2015;43(7):e47.
+
+Shadid J. Investigating the Effect of Lipid Composition and Molar Ratio on the
+Cytotoxicity of DOTAP-Based Gene Therapy Vectors in MCF-7 and MDA-MB-231 Breast Cancer
+Cells. BSc Biomedical Science dissertation, University of Birmingham, 2026.
+
+Thompson DE, Siwicky MD, Moorehead RA. Caveolin-1 expression is elevated in claudin-low
+mammary tumor cells. *Cancer Cell International* 2012;12:6.
