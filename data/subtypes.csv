@@ -1,97 +1,97 @@
-"ModelID","StrippedCellLineName","ModelSubtypeFeatures","OncotreeSubtype","OncotreePrimaryDisease","OnboardedMedia","subtype","notes"
-"ACH-000017","SKBR3","HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-023-001","Exclude-HER2",NA
-"ACH-000019","MCF7","ER+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-015-010","Luminal",NA
-"ACH-000028","KPL1","ER+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-001","Luminal",NA
-"ACH-000044","MDAMB134VI","luminal ER+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-003","Luminal",NA
-"ACH-000097","ZR751","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal",NA
-"ACH-000111","HCC1187","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000117","EFM192A","HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-001-018","Exclude-HER2",NA
-"ACH-000147","T47D","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-045","Luminal",NA
-"ACH-000148","HS578T","basal_B TNBC","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","MF-002-001","Basal",NA
-"ACH-000196","HCC1599","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000212","CAL120","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal",NA
-"ACH-000223","HCC1937","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000248","AU565","HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-001","Exclude-HER2",NA
-"ACH-000258","DU4475","luminal TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-LAR","Excluded: luminal androgen receptor (LAR) subtype — TNBC by receptor status, luminal by expression"
-"ACH-000276","HCC38","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-020-001","Basal",NA
-"ACH-000277","HCC1419","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2",NA
-"ACH-000288","BT549","basal_B TNBC","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","MF-001-045","Basal",NA
-"ACH-000330","EFM19","luminal ER+, PR+, HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal",NA
-"ACH-000349","HCC1500","luminal ER, PR+","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","MF-001-001","Luminal",NA
-"ACH-000352","HCC1428","luminal ER, PR+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal",NA
-"ACH-000374","HCC1143","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000536","BT20","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-006-001","Basal",NA
-"ACH-000554","UACC893","HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-001","Exclude-HER2",NA
-"ACH-000568","UACC812","luminal ER+, PR+, HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-001-020","Luminal",NA
-"ACH-000573","MDAMB436","basal_B TNBC","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","","Basal",NA
-"ACH-000621","MDAMB157","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000624","HCC1806","basal_A TNBC","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","MF-001-001","Basal",NA
-"ACH-000642","HMEL","","Immortalized Breast Cells","Non-Cancerous","","Exclude-unclassified",NA
-"ACH-000643","HDQP1","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal",NA
-"ACH-000668","HCC70","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000691","HCC2157","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-014","Basal",NA
-"ACH-000699","HCC1395","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000711","JIMT1","basal_A HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal",NA
-"ACH-000721","HMC18","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000725","HCC202","HER2+","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","MF-001-001","Exclude-HER2",NA
-"ACH-000755","HCC2218","HER2+","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","MF-001-001","Exclude-HER2",NA
-"ACH-000759","MDAMB175VII","ER+, PR+, HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2",NA
-"ACH-000768","MDAMB231","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000783","CAMA1","luminal ER+, PR+, HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-006-001","Luminal",NA
-"ACH-000818","BT483","luminal ER+, PR+, HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","","Luminal",NA
-"ACH-000828","ZR7530","ER+, PR+, HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2",NA
-"ACH-000849","MDAMB468","basal_A TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal",NA
-"ACH-000856","CAL51","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-009","Basal",NA
-"ACH-000857","CAL851","basal TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal",NA
-"ACH-000859","HCC1954","ER-/PR-/HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2",NA
-"ACH-000876","MDAMB415","luminal ER+, HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-021-008","Luminal",NA
-"ACH-000902","CAL148","luminal HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-002-003","Luminal",NA
-"ACH-000910","MDAMB453","HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-021-001","Exclude-HER2",NA
-"ACH-000927","BT474","ER+, PR+, HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2",NA
-"ACH-000930","HCC1569","basal_A HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal",NA
-"ACH-000934","MDAMB361","luminal ER+, HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-021-003","Luminal",NA
-"ACH-001065","EVSAT","PR+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","","Luminal",NA
-"ACH-001249","YMB1","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal",NA
-"ACH-001357","MCF10A","","Immortalized Breast Cells","Non-Cancerous","MF-017-002","Exclude-unclassified",NA
-"ACH-001358","MDAMB330","HER2 Amp","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-004","Exclude-HER2",NA
-"ACH-001388","SUM102PT","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-006","Basal",NA
-"ACH-001389","SUM1315MO2","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-004","Basal",NA
-"ACH-001390","SUM149PT","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-008","Basal",NA
-"ACH-001391","SUM159PT","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Basal",NA
-"ACH-001392","SUM185PE","luminal TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Exclude-LAR","Excluded: luminal androgen receptor (LAR) subtype — TNBC by receptor status, luminal by expression"
-"ACH-001393","SUM190PT","basal_A HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-006","Basal",NA
-"ACH-001394","SUM229PE","basal TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Basal",NA
-"ACH-001395","SUM44PE","luminal ER+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-004-006","Luminal",NA
-"ACH-001396","SUM52PE","luminal TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Exclude-LAR","Excluded: luminal androgen receptor (LAR) subtype — TNBC by receptor status, luminal by expression"
-"ACH-001397","SUM225CWN","basal HER2+","Breast Invasive Cancer, NOS","Invasive Breast Carcinoma","MF-004-005","Basal",NA
-"ACH-001419","VP229","","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-017-001","Exclude-unclassified",NA
-"ACH-001514","HCC1008","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-007-004","Exclude-HER2",NA
-"ACH-001662","SNU2372","TNBC","Breast Invasive Cancer, NOS","Invasive Breast Carcinoma","MF-001-005","Basal",NA
-"ACH-001683","UACC3133","ER+, HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-005","Exclude-HER2",NA
-"ACH-001705","VP267","ER-, PR-","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-017-001","Exclude-unclassified",NA
-"ACH-001819","MFM223","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-006-004","Luminal",NA
-"ACH-001820","COLO824","HER2+","Breast Neoplasm, NOS","Breast Neoplasm, NOS","MF-001-017","Exclude-HER2",NA
-"ACH-002163","MRKNU1","","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","","Exclude-unclassified",NA
-"ACH-002179","OCUBM","","Invasive Breast Carcinoma","Invasive Breast Carcinoma","","Exclude-unclassified",NA
-"ACH-002208","YMB1E","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","","Luminal",NA
-"ACH-002320","600MPE","","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","","Exclude-unclassified",NA
-"ACH-002321","HBL100","","Immortalized Breast Cells","Non-Cancerous","","Exclude-unclassified",NA
-"ACH-002322","HCC2185","TNBC","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","","Basal",NA
-"ACH-002323","HCC2688","","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","","Exclude-unclassified",NA
-"ACH-002324","HCC3153","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","","Basal",NA
-"ACH-002326","MACLS2","","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","","Exclude-unclassified",NA
-"ACH-002327","MCF12A","","Immortalized Breast Cells","Non-Cancerous","","Exclude-unclassified",NA
-"ACH-002328","MX1","","Breast Neoplasm, NOS","Breast Neoplasm, NOS","","Exclude-unclassified",NA
-"ACH-002329","SKBR5","","Breast Neoplasm, NOS","Breast Neoplasm, NOS","","Exclude-unclassified",NA
-"ACH-002330","SKBR7","","Breast Neoplasm, NOS","Breast Neoplasm, NOS","","Exclude-unclassified",NA
-"ACH-002331","ZR75B","","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","","Luminal",NA
-"ACH-002399","21NT","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-007-008","Exclude-HER2",NA
-"ACH-002400","21MT1","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-007-008","Exclude-HER2",NA
-"ACH-002401","21MT2","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-007-008","Exclude-HER2",NA
-"ACH-002499","UACC3199","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-021-005","Exclude-HER2",NA
-"ACH-002883","IPMBO053L","HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-031-003","Exclude-HER2",NA
-"ACH-002884","IPMBO053R","HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-031-003","Exclude-HER2",NA
-"ACH-002885","IPMBO056","ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-031-003","Luminal",NA
-"ACH-002921","BCK4","","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-006-001","Exclude-unclassified",NA
-"ACH-002950","NH93T","TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-031-003","Basal",NA
-"ACH-002951","NH84T","TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-031-003","Basal",NA
+"ModelID","StrippedCellLineName","ModelSubtypeFeatures","OncotreeSubtype","OncotreePrimaryDisease","OnboardedMedia","subtype"
+"ACH-000017","SKBR3","HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-023-001","Exclude-HER2"
+"ACH-000019","MCF7","ER+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-015-010","Luminal"
+"ACH-000028","KPL1","ER+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-001","Luminal"
+"ACH-000044","MDAMB134VI","luminal ER+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-003","Luminal"
+"ACH-000097","ZR751","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal"
+"ACH-000111","HCC1187","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000117","EFM192A","HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-001-018","Exclude-HER2"
+"ACH-000147","T47D","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-045","Luminal"
+"ACH-000148","HS578T","basal_B TNBC","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","MF-002-001","Basal"
+"ACH-000196","HCC1599","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000212","CAL120","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal"
+"ACH-000223","HCC1937","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000248","AU565","HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-001","Exclude-HER2"
+"ACH-000258","DU4475","luminal TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-LAR"
+"ACH-000276","HCC38","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-020-001","Basal"
+"ACH-000277","HCC1419","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2"
+"ACH-000288","BT549","basal_B TNBC","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","MF-001-045","Basal"
+"ACH-000330","EFM19","luminal ER+, PR+, HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal"
+"ACH-000349","HCC1500","luminal ER, PR+","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","MF-001-001","Luminal"
+"ACH-000352","HCC1428","luminal ER, PR+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal"
+"ACH-000374","HCC1143","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000536","BT20","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-006-001","Basal"
+"ACH-000554","UACC893","HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-001","Exclude-HER2"
+"ACH-000568","UACC812","luminal ER+, PR+, HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-001-020","Luminal"
+"ACH-000573","MDAMB436","basal_B TNBC","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","","Basal"
+"ACH-000621","MDAMB157","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000624","HCC1806","basal_A TNBC","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","MF-001-001","Basal"
+"ACH-000642","HMEL","","Immortalized Breast Cells","Non-Cancerous","","Exclude-unclassified"
+"ACH-000643","HDQP1","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal"
+"ACH-000668","HCC70","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000691","HCC2157","basal_A TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-014","Basal"
+"ACH-000699","HCC1395","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000711","JIMT1","basal_A HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal"
+"ACH-000721","HMC18","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000725","HCC202","HER2+","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","MF-001-001","Exclude-HER2"
+"ACH-000755","HCC2218","HER2+","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","MF-001-001","Exclude-HER2"
+"ACH-000759","MDAMB175VII","ER+, PR+, HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2"
+"ACH-000768","MDAMB231","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000783","CAMA1","luminal ER+, PR+, HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-006-001","Luminal"
+"ACH-000818","BT483","luminal ER+, PR+, HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","","Luminal"
+"ACH-000828","ZR7530","ER+, PR+, HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2"
+"ACH-000849","MDAMB468","basal_A TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal"
+"ACH-000856","CAL51","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-002-009","Basal"
+"ACH-000857","CAL851","basal TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-002-001","Basal"
+"ACH-000859","HCC1954","ER-/PR-/HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2"
+"ACH-000876","MDAMB415","luminal ER+, HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-021-008","Luminal"
+"ACH-000902","CAL148","luminal HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-002-003","Luminal"
+"ACH-000910","MDAMB453","HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-021-001","Exclude-HER2"
+"ACH-000927","BT474","ER+, PR+, HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Exclude-HER2"
+"ACH-000930","HCC1569","basal_A HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Basal"
+"ACH-000934","MDAMB361","luminal ER+, HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-021-003","Luminal"
+"ACH-001065","EVSAT","PR+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","","Luminal"
+"ACH-001249","YMB1","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal"
+"ACH-001357","MCF10A","","Immortalized Breast Cells","Non-Cancerous","MF-017-002","Exclude-unclassified"
+"ACH-001358","MDAMB330","HER2 Amp","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-004","Exclude-HER2"
+"ACH-001388","SUM102PT","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-006","Basal"
+"ACH-001389","SUM1315MO2","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-004","Basal"
+"ACH-001390","SUM149PT","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-008","Basal"
+"ACH-001391","SUM159PT","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Basal"
+"ACH-001392","SUM185PE","luminal TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Exclude-LAR"
+"ACH-001393","SUM190PT","basal_A HER2+","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-006","Basal"
+"ACH-001394","SUM229PE","basal TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Basal"
+"ACH-001395","SUM44PE","luminal ER+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-004-006","Luminal"
+"ACH-001396","SUM52PE","luminal TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Exclude-LAR"
+"ACH-001397","SUM225CWN","basal HER2+","Breast Invasive Cancer, NOS","Invasive Breast Carcinoma","MF-004-005","Basal"
+"ACH-001419","VP229","","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-017-001","Exclude-unclassified"
+"ACH-001514","HCC1008","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-007-004","Exclude-HER2"
+"ACH-001662","SNU2372","TNBC","Breast Invasive Cancer, NOS","Invasive Breast Carcinoma","MF-001-005","Basal"
+"ACH-001683","UACC3133","ER+, HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-005","Exclude-HER2"
+"ACH-001705","VP267","ER-, PR-","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-017-001","Exclude-unclassified"
+"ACH-001819","MFM223","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-006-004","Luminal"
+"ACH-001820","COLO824","HER2+","Breast Neoplasm, NOS","Breast Neoplasm, NOS","MF-001-017","Exclude-HER2"
+"ACH-002163","MRKNU1","","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","","Exclude-unclassified"
+"ACH-002179","OCUBM","","Invasive Breast Carcinoma","Invasive Breast Carcinoma","","Exclude-unclassified"
+"ACH-002208","YMB1E","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","","Luminal"
+"ACH-002320","600MPE","","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","","Exclude-unclassified"
+"ACH-002321","HBL100","","Immortalized Breast Cells","Non-Cancerous","","Exclude-unclassified"
+"ACH-002322","HCC2185","TNBC","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","","Basal"
+"ACH-002323","HCC2688","","Breast Ductal Carcinoma In Situ","Breast Ductal Carcinoma In Situ","","Exclude-unclassified"
+"ACH-002324","HCC3153","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","","Basal"
+"ACH-002326","MACLS2","","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","","Exclude-unclassified"
+"ACH-002327","MCF12A","","Immortalized Breast Cells","Non-Cancerous","","Exclude-unclassified"
+"ACH-002328","MX1","","Breast Neoplasm, NOS","Breast Neoplasm, NOS","","Exclude-unclassified"
+"ACH-002329","SKBR5","","Breast Neoplasm, NOS","Breast Neoplasm, NOS","","Exclude-unclassified"
+"ACH-002330","SKBR7","","Breast Neoplasm, NOS","Breast Neoplasm, NOS","","Exclude-unclassified"
+"ACH-002331","ZR75B","","Breast Invasive Carcinoma, NOS","Invasive Breast Carcinoma","","Luminal"
+"ACH-002399","21NT","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-007-008","Exclude-HER2"
+"ACH-002400","21MT1","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-007-008","Exclude-HER2"
+"ACH-002401","21MT2","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-007-008","Exclude-HER2"
+"ACH-002499","UACC3199","HER2+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-021-005","Exclude-HER2"
+"ACH-002883","IPMBO053L","HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-031-003","Exclude-HER2"
+"ACH-002884","IPMBO053R","HER2+","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-031-003","Exclude-HER2"
+"ACH-002885","IPMBO056","ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-031-003","Luminal"
+"ACH-002921","BCK4","","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-006-001","Exclude-unclassified"
+"ACH-002950","NH93T","TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-031-003","Basal"
+"ACH-002951","NH84T","TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-031-003","Basal"
