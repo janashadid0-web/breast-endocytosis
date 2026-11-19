@@ -24,7 +24,7 @@ expr_breast <- filter(expr,
 usable      <- filter(curation, subtype %in% c("Basal", "Luminal"))
 final_lines <- intersect(expr_breast$ModelID, usable$ModelID)
 
-stopifnot(length(final_lines) == 46)
+stopifnot(length(final_lines) == 45)
 
 expr_final <- filter(expr_breast, ModelID %in% final_lines)
 

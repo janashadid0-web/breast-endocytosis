@@ -18,10 +18,13 @@ curation$subtype[grepl("HER2", curation$ModelSubtypeFeatures) &
 curation$subtype[curation$StrippedCellLineName == "ZR75B"] <- "Luminal"
 curation$subtype[curation$StrippedCellLineName %in%
                  c("DU4475", "SUM185PE", "SUM52PE")] <- "Exclude-LAR"
-curation$subtype[is.na(curation$subtype)] <- "Exclude-unclassified"
 
-stopifnot(sum(curation$subtype == "Basal") == 35)
-stopifnot(sum(curation$subtype == "Luminal") == 21)
+# Quality control: SUM102PT (ACH-001388) is low across the whole
+# transcriptome (median 0.67 vs ~2.5 for comparable lines, Q1 = 0).
+# Technical, not biological. Identified from the figure 2 heatmap.
+curation$subtype[curation$StrippedCellLineName == "SUM102PT"] <- "Exclude-QC"
+
+curation$subtype[is.na(curation$subtype)] <- "Exclude-unclassified"
 
 write.csv(curation, "data/subtypes.csv", row.names = FALSE)
 

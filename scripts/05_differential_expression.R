@@ -18,7 +18,7 @@ expr_genes <- expr_final[, geneset$gene]
 # match() keeps labels in the same order as the rows
 labels <- curation$subtype[match(rownames(expr_genes), curation$ModelID)]
 
-stopifnot(sum(labels == "Basal") == 30, sum(labels == "Luminal") == 16)
+stopifnot(sum(labels == "Basal") == 29, sum(labels == "Luminal") == 16)
 stopifnot(labels[rownames(expr_genes) == "ACH-000019"] == "Luminal")
 stopifnot(labels[rownames(expr_genes) == "ACH-000768"] == "Basal")
 

@@ -54,7 +54,7 @@
 "ACH-001249","YMB1","luminal ER, PR+","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-001-001","Luminal"
 "ACH-001357","MCF10A","","Immortalized Breast Cells","Non-Cancerous","MF-017-002","Exclude-unclassified"
 "ACH-001358","MDAMB330","HER2 Amp","Breast Invasive Lobular Carcinoma","Invasive Breast Carcinoma","MF-021-004","Exclude-HER2"
-"ACH-001388","SUM102PT","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-006","Basal"
+"ACH-001388","SUM102PT","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-006","Exclude-QC"
 "ACH-001389","SUM1315MO2","TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-004","Basal"
 "ACH-001390","SUM149PT","basal_B TNBC","Breast Invasive Ductal Carcinoma","Invasive Breast Carcinoma","MF-004-008","Basal"
 "ACH-001391","SUM159PT","basal_B TNBC","Invasive Breast Carcinoma","Invasive Breast Carcinoma","MF-004-005","Basal"
