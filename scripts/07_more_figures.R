@@ -54,7 +54,7 @@ p2 <- ggplot(hm, aes(x = ModelID, y = gene, fill = z)) +
   scale_fill_gradient2(low = "steelblue", mid = "white", high = "firebrick",
                        midpoint = 0, name = "z-score") +
   labs(x = "Cell line (ordered by caveolae score)", y = NULL,
-       title = "Gene set expression across 46 breast cancer cell lines") +
+       title = "Gene set expression across 45 breast cancer cell lines") +
   theme_minimal(base_size = 11) +
   theme(axis.text.x = element_blank(),
         panel.grid = element_blank())
